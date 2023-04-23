@@ -5,13 +5,13 @@ This program ensures your privacy and security by encrypting your login credenti
 
 With this program, you can stay up-to-date with your attendance and avoid any surprises at the end of the semester. Whether you're a student at LPU or just someone curious about how this program works, we hope you find it useful and informative.
 
-# Features
-Easy to use
-Secure login
-User-friendly display
-Quick and convenient attendance tracking
+## Features
+- Easy to use
+- Secure login
+- User-friendly display
+- Quick and convenient attendance tracking
 
-# Installation
+## Installation
 Clone the repository: git clone https://github.com/samrat-sarkar/LPU-Attendance-Tracker.git
 Install the required packages: pip install -r requirements.txt
 Run the program: python main.py

@@ -15,4 +15,4 @@ With this program, you can stay up-to-date with your attendance and avoid any su
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://samrat-sarkar.github.io/LPU-Attendance-Tracker/Screenshot.png)

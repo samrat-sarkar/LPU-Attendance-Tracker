@@ -12,7 +12,7 @@ User-friendly display
 Quick and convenient attendance tracking
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/LPU-Attendance-Tracker.git
+Clone the repository: git clone https://github.com/samrat-sarkar/LPU-Attendance-Tracker.git
 Install the required packages: pip install -r requirements.txt
 Run the program: python main.py
 Usage
